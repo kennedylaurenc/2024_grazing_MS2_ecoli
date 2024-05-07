@@ -1,9 +1,0 @@
-date_imaged,water,DAPI_filtered_mL,Area (sq. µm)  1,Num. of Cells 1,Area (sq. µm) 2,Num. of Cells 2,Area (sq. µm) 3,Num. of Cells 3,Area (sq. µm) 4,Num. of Cells 4,Area (sq. µm) 5,Num. of Cells 5,Area (sq. µm) 6,Num. of Cells 6,area_cells.um2,count_cells.mL,stdev_cells.um2,stdev_cells.mL,reps,
-September 11,D,2,14400,31,14400,7,4900,90,14400,71,14400,22,,,0.005492913832,4.85E+05,0.007382651301,6.52E+05,5,image 3 has clumping
-September 11,D,1,14400,26,14400,23,14400,73,14400,23,14400,25,,,0.002361111111,4.17E+05,0.00151668956,2.68E+05,5,
-September 11,G,1,3600,48,6400,52,3600,42,14400,66,3600,57,4900,60,0.01096442744,1.94E+06,0.004005781187,7.08E+05,6,image 4 has some clumps image 3 really clumpy and 2 somewhat clumpy and 1 clumpy
-September 11,F,1,8100,76,4900,55,6400,61,3600,55,4900,56,,,0.01136896101,2.01E+06,0.00237832003,4.20E+05,5,
-September 11,E,1,4900,77,4900,78,1600,59,900,50,,,,,0.03101580215,5.48E+06,0.01913634099,3.38E+06,4,"some clumps in 5,4,2,1"
-September 11,C,1,8100,82,12100,82,14400,35,14400,60,8100,59,,,0.006156297827,1.09E+06,0.002967946911,5.24E+05,5,
-September 11,B,1,10000,55,10000,40,8100,40,14400,71,14400,61,,,0.004720987654,8.34E+05,0.0006026855969,1.07E+05,5,image2 has clumping
-September 11,E,0.5,8100,47,2500,90,14400,41,14400,64,14400,15,,,0.01002716049,3.54E+06,0.01462783084,5.17E+06,5,
