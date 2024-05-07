@@ -1,0 +1,7 @@
+
+<table style="text-align:center"><tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">term</td><td>estimate</td><td>std.error</td><td>statistic</td><td>p.value</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">(Intercept)</td><td>-2.8617</td><td>0.4463</td><td>-6.4125</td><td>0.0007</td></tr>
+<tr><td style="text-align:left">percent_raw</td><td>-0.0010</td><td>0.0073</td><td>-0.1425</td><td>0.8913</td></tr>
+<tr><td style="text-align:left">C</td><td>-2.6429</td><td>0.6311</td><td>-4.1876</td><td>0.0058</td></tr>
+<tr><td style="text-align:left">percent_raw:C</td><td>0.0049</td><td>0.0103</td><td>0.4746</td><td>0.6518</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr></table>

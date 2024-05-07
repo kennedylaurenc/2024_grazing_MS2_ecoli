@@ -1,0 +1,36 @@
+water,ID_code,ID,dilution,volume_observed_mL,count,note,quality
+D,D01,worm,0,5,5,,"sand clumped onto everything , many chains of diatoms"
+D,D02,diptera larvae,0,5,1,,"sand clumped onto everything , many chains of diatoms"
+D,D03,rotifera,0,5,1,,"sand clumped onto everything , many chains of diatoms"
+D,D04,rotifera,0,5,2,,"sand clumped onto everything , many chains of diatoms"
+D,D05,unknown,0,5,2,seemed like annelida but upon close inspection too short and skinny ,"sand clumped onto everything , many chains of diatoms"
+D,D06,copepoda juvenile,0,5,1,,"sand clumped onto everything , many chains of diatoms"
+E,E01,copepoda adult,0,5,171,,clear of particles; no known diatoms observed
+E,E02,copepoda juvenile,0,5,TNTC,,clear of particles; no known diatoms observed
+E,E03,worm,0,5,29,,clear of particles; no known diatoms observed
+E,E04,rotifera,0,5,2,originally counted as cladocera,clear of particles; no known diatoms observed
+E,E05,copepoda adult,0,5,2,,clear of particles; no known diatoms observed
+E,E06,rotifera,0,5,13,,clear of particles; no known diatoms observed
+F,F01,diptera larvae,0,5,1,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F02,cladocera,0,5,5,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F03,cladocera,0,5,1,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F04,copepoda juvenile,0,5,TNTC,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F05,unknown,0,5,11,originally counted as rotifera,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F06,copepoda adult,0,5,44,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F07,unknown,0,5,1,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F08,unknown,0,5,1,originally counted as cladocera,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F09,cladocera,0,5,2,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+F,F10,rotifera,0,5,1,,extremely clumpy with dinoflagellate later called F11; very difficult to count small things
+G,G01,ciliate,0,5,80,originally counted as rotifera,some clumping; many phytoplankton
+G,G02,appendicularia larvae,0,5,16,originally counted as worm,some clumping; many phytoplankton
+G,G03,worm,0,5,1,,some clumping; many phytoplankton
+G,G04,worm,0,5,1,,some clumping; many phytoplankton
+G,G05,copepoda juvenile,0,5,TNTC,,some clumping; many phytoplankton
+G,G06,copepoda adult,0,5,4,,some clumping; many phytoplankton
+G,G07,dinoflagellate cyst,0,5,TNTC,,some clumping; many phytoplankton
+G,G08,rotifera,0,5,10,,some clumping; many phytoplankton
+G,G09,cirripede nauplius,0,5,1,,some clumping; many phytoplankton
+G,G10,unknown,0,5,1,,some clumping; many phytoplankton
+G,G11,rotifera,0,5,1,,some clumping; many phytoplankton
+G,G12,dinoflagellate,0,5,1,,some clumping; many phytoplankton
+G,G13,unknown,0,5,1,,some clumping; many phytoplankton

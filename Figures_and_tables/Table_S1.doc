@@ -1,0 +1,17 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Microorganism</td><td>Environmental water</td><td>Incubation time (h)</td><td>g</td><td>Standard error of g</td><td>p-value of g</td><td>k</td><td>Standard error of k</td><td>p-value of k</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">E. coli</td><td>San Gregorio State Beach</td><td>24</td><td>0.00536</td><td>0.00230</td><td>0.10246</td><td>-2.33406</td><td>0.14107</td><td>0.00048</td></tr>
+<tr><td style="text-align:left">E. coli</td><td>San Gregorio State Beach</td><td>48</td><td>0.00008</td><td>0.00122</td><td>0.95459</td><td>-1.69088</td><td>0.07442</td><td>0.00019</td></tr>
+<tr><td style="text-align:left">E. coli</td><td>San Pedro Beach - April</td><td>24</td><td>0.00253</td><td>0.00295</td><td>0.45333</td><td>-2.52206</td><td>0.18061</td><td>0.00080</td></tr>
+<tr><td style="text-align:left">E. coli</td><td>San Pedro Creek</td><td>24</td><td>-0.00173</td><td>0.00068</td><td>0.05215</td><td>-0.88800</td><td>0.30505</td><td>0.03336</td></tr>
+<tr><td style="text-align:left">E. coli</td><td>San Francisco Bay</td><td>24</td><td>-0.00014</td><td>0.00060</td><td>0.82079</td><td>-1.08190</td><td>0.24941</td><td>0.00744</td></tr>
+<tr><td style="text-align:left">E. coli</td><td>Lake Chabot</td><td>24</td><td>-0.00046</td><td>0.00034</td><td>0.24008</td><td>-0.32846</td><td>0.14701</td><td>0.07576</td></tr>
+<tr><td style="text-align:left">E. coli</td><td>San Pedro Beach - June</td><td>24</td><td>0.00104</td><td>0.00038</td><td>0.03980</td><td>-3.25791</td><td>0.16793</td><td>0.00001</td></tr>
+<tr><td style="text-align:left">MS2</td><td>San Gregorio State Beach</td><td>24</td><td>-0.00104</td><td>0.00669</td><td>0.88642</td><td>-2.86172</td><td>0.40954</td><td>0.00602</td></tr>
+<tr><td style="text-align:left">MS2</td><td>San Gregorio State Beach</td><td>48</td><td>0.00241</td><td>0.00312</td><td>0.49631</td><td>-2.41771</td><td>0.19133</td><td>0.00107</td></tr>
+<tr><td style="text-align:left">MS2</td><td>San Pedro Beach - April</td><td>24</td><td>0.00385</td><td>0.00784</td><td>0.65689</td><td>-5.50459</td><td>0.48020</td><td>0.00142</td></tr>
+<tr><td style="text-align:left">MS2</td><td>San Pedro Creek</td><td>24</td><td>0.00034</td><td>0.00045</td><td>0.49211</td><td>-0.46622</td><td>0.20370</td><td>0.07076</td></tr>
+<tr><td style="text-align:left">MS2</td><td>San Francisco Bay</td><td>24</td><td>0.00132</td><td>0.00105</td><td>0.26592</td><td>-3.22965</td><td>0.44178</td><td>0.00075</td></tr>
+<tr><td style="text-align:left">MS2</td><td>Lake Chabot</td><td>24</td><td>0.00116</td><td>0.00040</td><td>0.03487</td><td>-1.45535</td><td>0.17383</td><td>0.00040</td></tr>
+<tr><td style="text-align:left">MS2</td><td>San Pedro Beach - June</td><td>24</td><td>0.00200</td><td>0.00088</td><td>0.07169</td><td>-4.51211</td><td>0.39150</td><td>0.00009</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

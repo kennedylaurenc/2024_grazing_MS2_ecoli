@@ -1,0 +1,97 @@
+water,ID,dilution,volume_observed_mL,count,note,quality
+B,rotifera,1,5,0,,few phytoplankton
+B,diatom,1,5,2,,few phytoplankton
+B,ciliate,1,5,0,,few phytoplankton
+B,filimentous algae,1,5,0,,few phytoplankton
+B,copepoda juvenile,1,5,0,,few phytoplankton
+B,copepoda adult,1,5,3,,few phytoplankton
+B,worm,1,5,1,,few phytoplankton
+B,appendicularia larvae,1,5,0,,few phytoplankton
+B,diptera larvae,1,5,0,,few phytoplankton
+B,dinoflagellate,1,5,0,,few phytoplankton
+B,dinoflagellate cyst,1,5,0,,few phytoplankton
+B,cladocera,1,5,0,,few phytoplankton
+C,rotifera,1,5,4,,
+C,diatom,1,5,69,,
+C,ciliate,1,5,0,,
+C,filimentous algae,1,5,7,,
+C,copepoda juvenile,1,5,8,,
+C,copepoda adult,1,5,4,,
+C,worm,1,5,3,,
+C,appendicularia larvae,1,5,0,,
+C,diptera larvae,1,5,0,,
+C,dinoflagellate,1,5,0,,
+C,dinoflagellate cyst,1,5,0,,
+C,cladocera,1,5,0,,
+D,rotifera,1,5,0,,not muh stuff; very clumpy
+D,diatom,1,5,3,,not muh stuff; very clumpy
+D,ciliate,1,5,0,,not muh stuff; very clumpy
+D,filimentous algae,1,5,0,,not muh stuff; very clumpy
+D,copepoda juvenile,1,5,0,,not muh stuff; very clumpy
+D,copepoda adult,1,5,1,,not muh stuff; very clumpy
+D,worm,1,5,0,,not muh stuff; very clumpy
+D,appendicularia larvae,1,5,0,,not muh stuff; very clumpy
+D,diptera larvae,1,5,1,,not muh stuff; very clumpy
+D,dinoflagellate,1,5,0,,not muh stuff; very clumpy
+D,dinoflagellate cyst,1,5,0,,not muh stuff; very clumpy
+D,cladocera,1,5,0,,not muh stuff; very clumpy
+E,rotifera,2,5,1,,
+E,diatom,2,5,1,,
+E,ciliate,2,5,0,,
+E,filimentous algae,2,5,0,,
+E,copepoda juvenile,2,5,260,,
+E,copepoda adult,2,5,13,,
+E,worm,2,5,5,,
+E,appendicularia larvae,2,5,0,,
+E,diptera larvae,2,5,0,,
+E,dinoflagellate,2,5,0,,
+E,dinoflagellate cyst,2,5,0,,
+E,cladocera,2,5,0,,
+F,rotifera,3,4,2,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,diatom,3,4,TNTC,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,ciliate,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,filimentous algae,3,4,TNTC,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,copepoda juvenile,3,4,4,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,copepoda adult,3,4,1,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,worm,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,appendicularia larvae,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,diptera larvae,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,dinoflagellate,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,dinoflagellate cyst,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+F,cladocera,3,4,0,looked at 4 mL ONLY IN D4 because DD5 was too dilute for most and 1 mL had already been collected,
+G,rotifera,1,5,TNTC,didn't separate from ciliiates,
+G,diatom,1,5,21,,
+G,ciliate,1,5,TNTC,didn't separate from rotifers,
+G,filimentous algae,1,5,0,,
+G,copepoda juvenile,1,5,19,,
+G,copepoda adult,1,5,5,,
+G,worm,1,5,3,,
+G,appendicularia larvae,1,5,17,,
+G,diptera larvae,1,5,0,,
+G,dinoflagellate,1,5,5,,
+G,dinoflagellate cyst,1,5,55,,
+G,cladocera,1,5,0,,
+F,rotifera,4,5,0,,some clumping
+F,diatom,4,5,0,,some clumping
+F,ciliate,4,5,0,,some clumping
+F,filimentous algae,4,5,9,,some clumping
+F,copepoda juvenile,4,5,0,,some clumping
+F,copepoda adult,4,5,0,,some clumping
+F,worm,4,5,0,,some clumping
+F,appendicularia larvae,4,5,0,,some clumping
+F,diptera larvae,4,5,0,,some clumping
+F,dinoflagellate,4,5,360,,some clumping
+F,dinoflagellate cyst,4,5,0,,some clumping
+F,cladocera,4,5,0,,some clumping
+G,rotifera,2,5,5,,
+G,diatom,2,5,809, conservative count,
+G,ciliate,2,5,24,,
+G,filimentous algae,2,5,0,,
+G,copepoda juvenile,2,5,7,,
+G,copepoda adult,2,5,0,,
+G,worm,2,5,1,,
+G,appendicularia larvae,2,5,0,,
+G,diptera larvae,2,5,0,,
+G,dinoflagellate,2,5,0,,
+G,dinoflagellate cyst,2,5,9,,
+G,cladocera,2,5,0,,
